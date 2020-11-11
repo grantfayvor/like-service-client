@@ -3,7 +3,7 @@ const dev = {
 };
 
 const prod = {
-  API_ENDPOINT: "http://34.69.208.19"
+  API_ENDPOINT: "https://bikelane-89992883.uc.r.appspot.com"
 };
 
 export default process.env.NODE_ENV === "production" ? prod : dev;
