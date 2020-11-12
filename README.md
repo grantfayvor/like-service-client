@@ -10,7 +10,7 @@
 ### __How to Run__
 You can run the app either as a local server or with Docker.
 * #### Local Server
-> Run the project by typing the command ```npm start``` in terminal and pressing enter.
+> Run the project by typing the command ```npm start``` in terminal and pressing enter. The application is available at [http://localhost:4000](http://localhost:4000).
 * #### Docker
 > After making sure that docker is properly installed on your system build the image with the command below
 
