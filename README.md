@@ -19,3 +19,6 @@ You can run the app either as a local server or with Docker.
 >Run the image with the command below
 
 >```docker run --publish 4000:4000 --name like-service-client like-service-client:latest```
+
+### Online
+The application was deployed using Netlify and is available at [https://festive-jackson-c304e8.netlify.app/](https://festive-jackson-c304e8.netlify.app/).
